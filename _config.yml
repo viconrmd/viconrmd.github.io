@@ -29,7 +29,7 @@ author:
   bio              : "Phd Student"
   location         : "Paris"
   employer         : "CryptoExperts"
-  uri              : "https://www.cryptoexperts.com/"
+  employer_uri     : "https://www.cryptoexperts.com/"
   email            : "victor.normand@cryptoexperts.com" 
 
   # Academic websites
