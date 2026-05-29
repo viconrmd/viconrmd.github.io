@@ -7,7 +7,8 @@ permalink: /publication/2025-09-24-paper-title-number-1
 date: 2025-09-24
 venue: 'Asiacrypt'
 paperurl: 'https://eprint.iacr.org/2025/1747.pdf'
-excerpt: "Sonia Belaïd, Victor Normand and Matthieu Rivain."
+excerpt: ""
+authors: "Sonia Belaïd, Victor Normand and Matthieu Rivain"
 ---
 
 The random probing model formalizes a leakage scenario where each wire in a
