@@ -22,6 +22,4 @@ a broader interest in cryptography, secure implementations, and cybersecurity.
 
 ## Curriculum Vitae
 
-You can download my CV here:
-
-📄 **[Download CV](/files/CV_Victor.pdf)**
+You can download my CV **[here](/files/CV_Victor.pdf)**.
