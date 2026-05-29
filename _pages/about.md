@@ -20,3 +20,8 @@ Rivain](https://www.matthieurivain.com/).
 My research interests lie mainly in masking and lattice-based cryptography, with
 a broader interest in cryptography, secure implementations, and cybersecurity.
 
+## Curriculum Vitae
+
+You can download my CV here:
+
+📄 **[Download CV](/files/CV_Victor.pdf)**

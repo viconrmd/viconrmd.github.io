@@ -23,7 +23,7 @@ repository               : "viconrmd/viconrmd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "victor_normand.jpg"
   name             : "Victor Normand"
   pronouns         : # example: "she/her"  
   bio              : "Phd Student"
